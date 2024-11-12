@@ -7,9 +7,8 @@ Welcome to **Like-Tree** – a customizable, link-tree-style React website for s
 
 Check out a live demo of the site [here](#).
 
-![Untitled video - Made with Clipchamp (4)](https://github.com/user-attachments/assets/5298de28-2341-48d7-9f0e-ef733f6f995c)
-![Screen Recording 2024-11-12 154120](https://github.com/user-attachments/assets/7c4a7408-d1c5-43b2-af9e-d7bb1a615cf5)
-
+<img src="https://github.com/user-attachments/assets/f9a0b947-519a-40f3-9081-2af83f108e8e" alt="Description" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/7c4a7408-d1c5-43b2-af9e-d7bb1a615cf5" alt="Description" width="400" height="400"/>
 
 ## Features
 
