@@ -2,10 +2,14 @@ const data = {
 	// styles: {
 	// 	wrapperStyle: {
 	// 		fontFamily: 'Candara',
+	// 		backgroundColor: '#eee',
 	// 	},
 	// 	profileStyle: {
 	// 		backgroundColor: '#ffc078',
 	// 		color: '#343a40',
+	// 		borderColor: '#343a40',
+	// 		borderStyle: 'solid',
+	// 		borderWidth: '0.15rem',
 	// 		borderRadius: '5rem',
 	// 		marginBottom: '2rem',
 	// 		padding: '1rem',
@@ -187,8 +191,8 @@ const data = {
 			links: [
 				{
 					name: 'link-tree',
-					link: '',
-					git: '',
+					link: 'https://r2-link-tree.netlify.app/',
+					git: 'https://github.com/arthuroking30/link-tree',
 					info: 'Made this portfolio link-tree from scratch (HTML, CSS, React). Interactive particle background (tsParticles). You can configure the particles in the tsParticles.js file and the data and styles in data.js. Copy to clipboard feature',
 				},
 				{
