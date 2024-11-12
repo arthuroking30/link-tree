@@ -5,7 +5,7 @@ Welcome to **Like-Tree** – a customizable, link-tree-style React website for s
 
 ## Demo
 
-Check out a live demo of the site [here](#).
+Check out a live demo of the site [here](#https://r2-link-tree.netlify.app/).
 
 <img src="https://github.com/user-attachments/assets/f9a0b947-519a-40f3-9081-2af83f108e8e" alt="Description" width="400" height="400"/>
 <img src="https://github.com/user-attachments/assets/7c4a7408-d1c5-43b2-af9e-d7bb1a615cf5" alt="Description" width="400" height="400"/>
