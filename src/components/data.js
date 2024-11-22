@@ -191,7 +191,7 @@ const data = {
 			links: [
 				{
 					name: 'link-tree',
-					link: 'https://r2-link-tree.netlify.app/',
+					link: 'https://arthur-negosanu.netlify.app/',
 					git: 'https://github.com/arthuroking30/link-tree',
 					info: 'Made this portfolio link-tree from scratch (HTML, CSS, React). Interactive particle background (tsParticles). You can configure the particles in the tsParticles.js file and the data and styles in data.js. Copy to clipboard feature',
 				},
